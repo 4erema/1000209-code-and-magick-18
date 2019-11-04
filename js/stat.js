@@ -14,7 +14,7 @@ var BAR_GAP = 50;
 var BAR_PLAYER_GAP = 10;
 var PLAYER_BAR_COLOR = 'rgba(255, 0, 0, 1)';
 
-// формула случайного числа 
+// формула случайного числа
 var getRandomNumber = function (min, max) {
   min = Math.ceil(min);
   max = Math.floor(max);
